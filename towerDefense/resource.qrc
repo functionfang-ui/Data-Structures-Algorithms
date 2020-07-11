@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>config/Info.plist</file>
+        <file>config/TowersPosition.plist</file>
+        <file>config/Waves.plist</file>
+        <file>music/8bitDungeonLevel.mp3</file>
+        <file>music/enemy_destroy.wav</file>
+        <file>music/laser_shoot.wav</file>
+        <file>music/life_lose.wav</file>
+        <file>music/tower_place.wav</file>
+        <file>image/arrow.png</file>
+        <file>image/arrowTower.png</file>
+        <file>image/arrowTower2.png</file>
+        <file>image/bomb.png</file>
+        <file>image/enemyCar.png</file>
+        <file>image/laserTower.png</file>
+        <file>image/map.png</file>
+        <file>image/open_spot.png</file>
+        <file>image/enemyBug.png</file>
+        <file>music/arrow_shoot.wav</file>
+        <file>image/cupola.png</file>
+    </qresource>
+</RCC>
